@@ -1,0 +1,202 @@
+[
+  {
+    "rbr": 2,
+    "ordinacija": "Ordinacija dr.Livakovic",
+    "djelatnost": "Dentalna medicina",
+    "adresa": "Ulica Nikole Tesle 6",
+    "grad": "Zagreb",
+    "doktor": "Ivan Livakovic",
+    "sifra": 55441,
+    "sestra": "Sanja Krleza"
+  },
+  {
+    "rbr": 1,
+    "ordinacija": "Ordinacija dr.Filipovic",
+    "djelatnost": "Opca obiteljska medicina",
+    "adresa": "Trg Stjepana Radica 18",
+    "grad": "Virovitica",
+    "doktor": "Matea Filipovic",
+    "sifra": 67419,
+    "sestra": "Karla Goluza"
+  },
+  {
+    "rbr": 3,
+    "ordinacija": "Ordinacija dr.Troha",
+    "djelatnost": "Pedijatrija",
+    "adresa": "Vukovarska ulica 1",
+    "grad": "Osijek",
+    "doktor": "Ivo Troha",
+    "sifra": 54207,
+    "sestra": "Oliver Knjanski"
+  },
+  {
+    "rbr": 4,
+    "ordinacija": "Ordinacija dr.Katic",
+    "djelatnost": "Ginekologija",
+    "adresa": "Trg Ivane Brlic Mazuranic 55",
+    "grad": "Split",
+    "doktor": "Ivona Katic",
+    "sifra": 49889,
+    "sestra": "Vedrana Pila"
+  },
+  {
+    "rbr": 1,
+    "ordinacija": "Ordinacija dr.Jakic",
+    "djelatnost": "Opca obiteljska medicina",
+    "adresa": "Ilica 223",
+    "grad": "Zagreb",
+    "doktor": "Roko Jakic",
+    "sifra": 34163,
+    "sestra": "Jana Nadz"
+  },
+  {
+    "rbr": 3,
+    "ordinacija": "Ordinacija dr.Kunic",
+    "djelatnost": "Pedijatrija",
+    "adresa": "Premanturska ulica 5",
+    "grad": "Zagreb",
+    "doktor": "Robert Kunic",
+    "sifra": 44975,
+    "sestra": "Mijo Rakic"
+  },
+  {
+    "rbr": 4,
+    "ordinacija": "Ordinacija dr.Kosuta",
+    "djelatnost": "Ginekologija",
+    "adresa": "Ulica Hrvatskih Branitelja 66",
+    "grad": "Osijek",
+    "doktor": "Marko Kosuta",
+    "sifra": 66632,
+    "sestra": "Anamarija Lazar"
+  },
+  {
+    "rbr": 1,
+    "ordinacija": "Ordinacija dr.Palatinus",
+    "djelatnost": "Opca obiteljska medicina",
+    "adresa": "Ulica Ljudevita Gaja 1",
+    "grad": "Daruvar",
+    "doktor": "Bozica Palatinus",
+    "sifra": 66775,
+    "sestra": "Ivana Smetko"
+  },
+  {
+    "rbr": 2,
+    "ordinacija": "Ordinacija dr.Falic",
+    "djelatnost": "Dentalna medicina",
+    "adresa": "Trg dr. Franje Tudmana",
+    "grad": "Virovitica",
+    "doktor": "Karlo Falic",
+    "sifra": 63954,
+    "sestra": "Jan Ratko"
+  },
+  {
+    "rbr": 3,
+    "ordinacija": "Ordinacija dr.Kis",
+    "djelatnost": "Pedijatrija",
+    "adresa": "Ulica Strossmayerova 123",
+    "grad": "Rijeka",
+    "doktor": "Julio Kis",
+    "sifra": 18512,
+    "sestra": "Matko Karacic"
+  },
+  {
+    "rbr": 4,
+    "ordinacija": "Ordinacija dr.Bozic",
+    "djelatnost": "Ginekologija",
+    "adresa": "Vukovarska ulica 99",
+    "grad": "Split",
+    "doktor": "Dominik Bozic",
+    "sifra": 98745,
+    "sestra": "Anica Ivancic"
+  },
+  {
+    "rbr": 2,
+    "ordinacija": "Ordinacija dr.Lipovski",
+    "djelatnost": "Dentalna medicina",
+    "adresa": "Ulica Petra Svacica 13",
+    "grad": "Daruvar",
+    "doktor": "Zeljka Lipovski",
+    "sifra": 99512,
+    "sestra": "Karla Goluza"
+  },
+  {
+    "rbr": 1,
+    "ordinacija": "Ordinacija dr.Pipak",
+    "djelatnost": "Opca obiteljska medicina",
+    "adresa": "Ulica Ivana Gundulica 8",
+    "grad": "Osijek",
+    "doktor": "Monika Pipak",
+    "sifra": 83221,
+    "sestra": "Paulina Brncic"
+  },
+  {
+    "rbr": 3,
+    "ordinacija": "Ordinacija dr.Viro",
+    "djelatnost": "Pedijatrija",
+    "adresa": "Ulica Matije Gupca 22",
+    "grad": "Virovitica",
+    "doktor": "Igor Viro",
+    "sifra": 83577,
+    "sestra": "Petar Znanko"
+  },
+  {
+    "rbr": 4,
+    "ordinacija": "Ordinacija dr. Belacic",
+    "djelatnost": "Ginekologija",
+    "adresa": "Ozaljska ulica 43",
+    "grad": "Zagreb",
+    "doktor": "Duro Belacic",
+    "sifra": 13795,
+    "sestra": "Katarina Belacic"
+  },
+  {
+    "rbr": 2,
+    "ordinacija": "Ordinacija dr.Trka",
+    "djelatnost": "Dentalna medicina",
+    "adresa": "Ulica Grada Vukovara",
+    "grad": "Zagreb",
+    "doktor": "Ivana Trka",
+    "sifra": 19736,
+    "sestra": "Dominik Romic"
+  },
+  {
+    "rbr": 2,
+    "ordinacija": "Ordinacija dr.Koko",
+    "djelatnost": "Dentalna medicina",
+    "adresa": "Ulica Ta 3",
+    "grad": "Osijek",
+    "doktor": "Kiki Koko",
+    "sifra": 20898,
+    "sestra": "Kiki Riki"
+  },
+  {
+    "rbr": 1,
+    "ordinacija": "Ordinacija dr.Vic",
+    "djelatnost": "Opca obiteljska medicina",
+    "adresa": "Ulica grada Vukovara 22",
+    "grad": "Split",
+    "doktor": "Pavo Vic",
+    "sifra": 31297,
+    "sestra": "Eros Kivi"
+  },
+  {
+    "rbr": 2,
+    "ordinacija": "Ordinacija dr.Irak",
+    "djelatnost": "Dentalna medicina",
+    "adresa": "Ulica Mak 36",
+    "grad": "Zagreb",
+    "doktor": "Ante Irak",
+    "sifra": 76221,
+    "sestra": "Katarina Kiki"
+  },
+  {
+    "rbr": 4,
+    "ordinacija": "Ordinacija dr.Kroko",
+    "djelatnost": "Ginekologija",
+    "adresa": "Frankopanska ulica 1",
+    "grad": "Split",
+    "doktor": "Loko Kroko",
+    "sifra": 65489,
+    "sestra": ""
+  }
+]

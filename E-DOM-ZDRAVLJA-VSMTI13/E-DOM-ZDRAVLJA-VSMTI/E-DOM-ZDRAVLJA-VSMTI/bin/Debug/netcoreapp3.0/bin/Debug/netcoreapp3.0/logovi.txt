@@ -1,0 +1,2493 @@
+06/01/2020 12:34:48
+06/01/2020 12:38:34
+06/01/2020 12:57:03
+07/01/2020 13:53:47 - Izbor prijave
+
+07/01/2020 13:53:48 - Prijava kao administrator
+
+07/01/2020 13:53:52 - Pokretanje izbornika
+
+07/01/2020 13:53:53 - Pregled svih ordinacija
+
+07/01/2020 13:55:34 - Izbor prijave
+
+07/01/2020 13:55:35 - Prijava kao administrator
+
+07/01/2020 13:55:39 - Pokretanje izbornika
+
+07/01/2020 13:55:40 - Pregled svih ordinacija
+
+07/01/2020 13:55:41 - Nastavak
+
+07/01/2020 13:55:41 - Pokretanje izbornika
+
+07/01/2020 13:55:45 - Pokretanje izbornika
+
+07/01/2020 13:55:57 - Pregled djelatnosti po gradovima
+
+07/01/2020 13:56:36 - Izbor prijave
+
+07/01/2020 13:56:37 - Prijava kao administrator
+
+07/01/2020 13:56:41 - Pokretanje izbornika
+
+07/01/2020 13:56:42 - Pregled svih zaposlenika
+
+07/01/2020 13:56:54 - Izlaz iz programa
+
+07/01/2020 13:58:48 - Izbor prijave
+
+07/01/2020 13:58:49 - Prijava kao administrator
+
+07/01/2020 13:58:53 - Pokretanje izbornika
+
+07/01/2020 13:58:55 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:01:38 - Izbor prijave
+
+07/01/2020 14:01:46 - Izbor prijave
+
+07/01/2020 14:01:47 - Prijava kao administrator
+
+07/01/2020 14:01:50 - Pokretanje izbornika
+
+07/01/2020 14:01:53 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:02:07 - Nastavak
+
+07/01/2020 14:02:07 - Pokretanje izbornika
+
+07/01/2020 14:02:08 - Prijava kao korisnik
+
+07/01/2020 14:02:25 - Izbor prijave
+
+07/01/2020 14:02:25 - Prijava kao administrator
+
+07/01/2020 14:02:30 - Pokretanje izbornika
+
+07/01/2020 14:02:33 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:03:22 - Izbor prijave
+
+07/01/2020 14:03:23 - Prijava kao administrator
+
+07/01/2020 14:03:26 - Pokretanje izbornika
+
+07/01/2020 14:03:28 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:04:48 - Izbor prijave
+
+07/01/2020 14:04:49 - Prijava kao administrator
+
+07/01/2020 14:04:53 - Pokretanje izbornika
+
+07/01/2020 14:04:55 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:06:04 - Izbor prijave
+
+07/01/2020 14:06:05 - Prijava kao administrator
+
+07/01/2020 14:06:08 - Pokretanje izbornika
+
+07/01/2020 14:06:09 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:06:55 - Izbor prijave
+
+07/01/2020 14:06:56 - Prijava kao administrator
+
+07/01/2020 14:06:59 - Pokretanje izbornika
+
+07/01/2020 14:07:00 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:09:40 - Izbor prijave
+
+07/01/2020 14:09:40 - Prijava kao administrator
+
+07/01/2020 14:09:46 - Pokretanje izbornika
+
+07/01/2020 14:09:48 - Pregled djelatnosti po gradovima
+
+07/01/2020 14:09:57 - Nastavak
+
+07/01/2020 14:09:57 - Pokretanje izbornika
+
+07/01/2020 14:10:01 - Pokretanje izbornika
+
+07/01/2020 14:12:30 - Izbor prijave
+
+07/01/2020 14:12:31 - Prijava kao administrator
+
+07/01/2020 14:12:34 - Pokretanje izbornika
+
+07/01/2020 14:12:36 - Pregled svih ordinacija
+
+07/01/2020 14:12:39 - Nastavak
+
+07/01/2020 14:12:39 - Pokretanje izbornika
+
+07/01/2020 14:12:42 - Pokretanje izbornika
+
+07/01/2020 14:12:57 - Odjava
+
+07/01/2020 14:13:07 - Izbor prijave
+
+07/01/2020 14:13:09 - Prijava kao administrator
+
+07/01/2020 14:13:13 - Pokretanje izbornika
+
+07/01/2020 14:13:19 - Pregled svih ordinacija
+
+07/01/2020 14:13:21 - Nastavak
+
+07/01/2020 14:13:21 - Pokretanje izbornika
+
+07/01/2020 14:13:25 - Pokretanje izbornika
+
+07/01/2020 14:13:29 - Odjava
+
+07/01/2020 14:15:04 - Izbor prijave
+
+07/01/2020 14:15:04 - Prijava kao administrator
+
+07/01/2020 14:15:15 - Pokretanje izbornika
+
+07/01/2020 14:15:16 - Pregled svih ordinacija
+
+07/01/2020 14:15:17 - Nastavak
+
+07/01/2020 14:15:17 - Pokretanje izbornika
+
+07/01/2020 14:15:17 - Pokretanje izbornika
+
+07/01/2020 14:15:26 - Odjava
+
+07/01/2020 14:17:01 - Izbor prijave
+
+07/01/2020 14:17:02 - Prijava kao administrator
+
+07/01/2020 14:17:05 - Pokretanje izbornika
+
+07/01/2020 14:17:06 - Pregled svih ordinacija
+
+07/01/2020 14:17:09 - Nastavak
+
+07/01/2020 14:17:09 - Pokretanje izbornika
+
+07/01/2020 14:17:09 - Pokretanje izbornika
+
+07/01/2020 14:17:13 - Pregled svih zaposlenika
+
+07/01/2020 14:17:39 - Izlaz iz programa
+
+07/01/2020 14:17:44 - Izbor prijave
+
+07/01/2020 14:17:46 - Prijava kao administrator
+
+07/01/2020 14:17:49 - Pokretanje izbornika
+
+07/01/2020 14:17:51 - Pregled svih zaposlenika
+
+07/01/2020 14:18:09 - Izlaz iz programa
+
+07/01/2020 14:18:35 - Izbor prijave
+
+07/01/2020 14:18:36 - Prijava kao administrator
+
+07/01/2020 14:18:39 - Pokretanje izbornika
+
+07/01/2020 14:18:41 - Pregled svih zaposlenika
+
+07/01/2020 14:18:59 - Nastavak
+
+07/01/2020 14:18:59 - Pokretanje izbornika
+
+07/01/2020 14:18:59 - Pokretanje izbornika
+
+07/01/2020 14:20:09 - Izbor prijave
+
+07/01/2020 14:20:09 - Prijava kao administrator
+
+07/01/2020 14:20:13 - Pokretanje izbornika
+
+07/01/2020 14:20:16 - Pregled svih ordinacija
+
+07/01/2020 14:20:17 - Nastavak
+
+07/01/2020 14:20:17 - Pokretanje izbornika
+
+07/01/2020 14:20:19 - Odjava
+
+07/01/2020 14:30:20 - Izbor prijave
+
+07/01/2020 14:30:20 - Prijava kao administrator
+
+07/01/2020 14:30:24 - Pokretanje izbornika
+
+07/01/2020 14:30:26 - Statistika djelatnosti
+
+07/01/2020 14:30:46 - Nastavak
+
+07/01/2020 14:30:46 - Pokretanje izbornika
+
+07/01/2020 14:30:49 - Odjava
+
+07/01/2020 14:33:25 - Izbor prijave
+
+07/01/2020 14:33:26 - Prijava kao administrator
+
+07/01/2020 14:33:30 - Pokretanje izbornika
+
+07/01/2020 14:33:33 - Statistika djelatnosti
+
+07/01/2020 14:33:39 - Nastavak
+
+07/01/2020 14:33:39 - Pokretanje izbornika
+
+07/01/2020 14:34:01 - Izbor prijave
+
+07/01/2020 14:34:02 - Prijava kao administrator
+
+07/01/2020 14:34:06 - Pokretanje izbornika
+
+07/01/2020 14:34:08 - Statistika djelatnosti
+
+07/01/2020 14:34:24 - Izlaz iz programa
+
+07/01/2020 14:37:12 - Izbor prijave
+
+07/01/2020 14:37:12 - Prijava kao administrator
+
+07/01/2020 14:37:18 - Pokretanje izbornika
+
+07/01/2020 14:37:19 - Statistika djelatnosti
+
+07/01/2020 14:37:22 - Izlaz iz programa
+
+07/01/2020 14:38:40 - Izbor prijave
+
+07/01/2020 14:38:42 - Prijava kao korisnik
+
+07/01/2020 14:38:49 - Pokretanje izbornika
+
+07/01/2020 14:38:51 - Statistika djelatnosti
+
+07/01/2020 14:38:53 - Nastavak
+
+07/01/2020 14:38:53 - Pokretanje izbornika
+
+07/01/2020 14:38:56 - Odjava
+
+07/01/2020 14:39:40 - Izbor prijave
+
+07/01/2020 14:39:41 - Prijava kao administrator
+
+07/01/2020 14:39:45 - Pokretanje izbornika
+
+07/01/2020 14:39:47 - Statistika djelatnosti
+
+07/01/2020 14:39:49 - Nastavak
+
+07/01/2020 14:39:49 - Pokretanje izbornika
+
+07/01/2020 14:39:51 - Odjava
+
+07/01/2020 14:43:45 - Izbor prijave
+
+07/01/2020 14:43:47 - Prijava kao administrator
+
+07/01/2020 14:43:57 - Izbor prijave
+
+07/01/2020 14:43:58 - Prijava kao administrator
+
+07/01/2020 14:44:01 - Pokretanje izbornika
+
+07/01/2020 14:44:03 - Statistika djelatnosti
+
+07/01/2020 14:44:09 - Izlaz iz programa
+
+07/01/2020 14:45:56 - Izbor prijave
+
+07/01/2020 14:46:00 - Prijava kao administrator
+
+07/01/2020 14:46:03 - Pokretanje izbornika
+
+07/01/2020 14:46:04 - Statistika djelatnosti
+
+07/01/2020 14:46:09 - Nastavak
+
+07/01/2020 14:46:09 - Pokretanje izbornika
+
+07/01/2020 14:51:53 - Izbor prijave
+
+07/01/2020 14:51:55 - Prijava kao administrator
+
+07/01/2020 14:51:58 - Pokretanje izbornika
+
+07/01/2020 14:51:59 - Statistika djelatnosti
+
+07/01/2020 14:54:28 - Izbor prijave
+
+07/01/2020 14:54:29 - Prijava kao administrator
+
+07/01/2020 14:54:31 - Pokretanje izbornika
+
+07/01/2020 14:54:33 - Statistika djelatnosti
+
+07/01/2020 14:55:14 - Izbor prijave
+
+07/01/2020 14:55:16 - Prijava kao administrator
+
+07/01/2020 14:55:19 - Pokretanje izbornika
+
+07/01/2020 14:55:20 - Statistika djelatnosti
+
+07/01/2020 15:00:13 - Izbor prijave
+
+07/01/2020 15:00:15 - Prijava kao administrator
+
+07/01/2020 15:00:18 - Pokretanje izbornika
+
+07/01/2020 15:00:19 - Statistika djelatnosti
+
+07/01/2020 15:02:09 - Izbor prijave
+
+07/01/2020 15:02:11 - Prijava kao administrator
+
+07/01/2020 15:02:14 - Pokretanje izbornika
+
+07/01/2020 15:02:14 - Statistika djelatnosti
+
+07/01/2020 15:04:13 - Izbor prijave
+
+07/01/2020 15:04:15 - Prijava kao administrator
+
+07/01/2020 15:04:18 - Pokretanje izbornika
+
+07/01/2020 15:04:19 - Statistika djelatnosti
+
+07/01/2020 15:04:43 - Izlaz iz programa
+
+07/01/2020 15:07:48 - Izbor prijave
+
+07/01/2020 15:07:49 - Prijava kao administrator
+
+07/01/2020 15:07:52 - Pokretanje izbornika
+
+07/01/2020 15:07:52 - Statistika djelatnosti
+
+07/01/2020 15:08:33 - Izlaz iz programa
+
+13/01/2020 09:01:05 - Izbor prijave
+
+13/01/2020 09:01:55 - Prijava kao administrator
+
+13/01/2020 09:02:00 - Pokretanje izbornika
+
+13/01/2020 09:02:06 - Pregled svih ordinacija
+
+13/01/2020 09:03:17 - Nastavak
+
+13/01/2020 09:03:17 - Pokretanje izbornika
+
+13/01/2020 09:04:39 - Pregled djelatnosti po gradovima
+
+13/01/2020 09:06:28 - Nastavak
+
+13/01/2020 09:06:28 - Pokretanje izbornika
+
+13/01/2020 09:06:32 - Pregled svih zaposlenika
+
+13/01/2020 09:10:00 - Nastavak
+
+13/01/2020 09:10:00 - Pokretanje izbornika
+
+13/01/2020 09:10:05 - Statistika djelatnosti
+
+13/01/2020 09:10:44 - Nastavak
+
+13/01/2020 09:10:44 - Pokretanje izbornika
+
+13/01/2020 09:14:44 - Odjava
+
+13/01/2020 13:30:13 - Izbor prijave
+
+13/01/2020 13:30:13 - Prijava kao administrator
+
+13/01/2020 13:30:20 - Pokretanje izbornika
+
+13/01/2020 13:30:22 - Pregled svih ordinacija
+
+13/01/2020 13:30:34 - Izlaz iz programa
+
+13/01/2020 13:38:11 - Izbor prijave
+
+13/01/2020 13:38:13 - Prijava kao administrator
+
+13/01/2020 13:38:17 - Pokretanje izbornika
+
+13/01/2020 13:38:23 - Statistika djelatnosti
+
+13/01/2020 13:39:42 - Izbor prijave
+
+13/01/2020 13:39:42 - Prijava kao administrator
+
+13/01/2020 13:39:47 - Pokretanje izbornika
+
+13/01/2020 13:39:49 - Statistika djelatnosti
+
+13/01/2020 13:40:09 - Izlaz iz programa
+
+13/01/2020 13:40:30 - Izbor prijave
+
+13/01/2020 13:40:30 - Prijava kao administrator
+
+13/01/2020 13:40:35 - Pokretanje izbornika
+
+13/01/2020 13:40:37 - Statistika djelatnosti
+
+13/01/2020 13:40:56 - Izlaz iz programa
+
+13/01/2020 13:41:26 - Izbor prijave
+
+13/01/2020 13:41:28 - Prijava kao administrator
+
+13/01/2020 13:41:32 - Pokretanje izbornika
+
+13/01/2020 13:41:35 - Statistika djelatnosti
+
+13/01/2020 13:42:06 - Izbor prijave
+
+13/01/2020 13:42:07 - Prijava kao administrator
+
+13/01/2020 13:42:11 - Pokretanje izbornika
+
+13/01/2020 13:42:12 - Statistika djelatnosti
+
+13/01/2020 13:43:11 - Izbor prijave
+
+13/01/2020 13:43:12 - Prijava kao administrator
+
+13/01/2020 13:43:16 - Pokretanje izbornika
+
+13/01/2020 13:43:17 - Statistika djelatnosti
+
+13/01/2020 13:43:30 - Izlaz iz programa
+
+13/01/2020 14:00:03 - Izbor prijave
+
+13/01/2020 14:00:04 - Prijava kao administrator
+
+13/01/2020 14:00:08 - Pokretanje izbornika
+
+13/01/2020 14:00:09 - Pregled svih ordinacija
+
+13/01/2020 14:00:48 - Izbor prijave
+
+13/01/2020 14:00:48 - Prijava kao administrator
+
+13/01/2020 14:00:53 - Pokretanje izbornika
+
+13/01/2020 14:00:53 - Pregled svih ordinacija
+
+13/01/2020 14:01:27 - Povratak u glavni izbornik
+
+13/01/2020 14:01:27 - Pokretanje izbornika
+
+13/01/2020 14:01:28 - Odjava
+
+13/01/2020 14:05:17 - Izbor prijave
+
+13/01/2020 14:05:18 - Prijava kao administrator
+
+13/01/2020 14:05:23 - Pokretanje izbornika
+
+13/01/2020 14:05:23 - Pregled svih ordinacija
+
+13/01/2020 14:10:58 - Izbor prijave
+
+13/01/2020 14:10:58 - Prijava kao administrator
+
+13/01/2020 14:11:02 - Pokretanje izbornika
+
+13/01/2020 14:11:04 - Pregled svih ordinacija
+
+13/01/2020 14:11:07 - Povratak u glavni izbornik
+
+13/01/2020 14:11:07 - Pokretanje izbornika
+
+13/01/2020 14:11:17 - Pregled djelatnosti po gradovima
+
+13/01/2020 14:11:41 - Povratak u glavni izbornik
+
+13/01/2020 14:11:41 - Pokretanje izbornika
+
+13/01/2020 14:11:48 - Odjava
+
+13/01/2020 14:24:38 - Izbor prijave
+
+13/01/2020 14:24:39 - Prijava kao administrator
+
+13/01/2020 14:25:02 - Izbor prijave
+
+13/01/2020 14:25:03 - Prijava kao administrator
+
+13/01/2020 14:26:44 - Izbor prijave
+
+13/01/2020 14:26:44 - Prijava kao administrator
+
+13/01/2020 14:26:49 - Pokretanje izbornika
+
+13/01/2020 14:26:51 - Pregled svih ordinacija
+
+13/01/2020 14:26:55 - Povratak u glavni izbornik
+
+13/01/2020 14:27:30 - Izbor prijave
+
+13/01/2020 14:27:31 - Prijava kao administrator
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:45 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:46 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:47 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 14:27:48 - Pokretanje izbornika
+
+13/01/2020 15:13:49 - Izbor prijave
+
+13/01/2020 15:13:51 - Prijava kao administrator
+
+13/01/2020 15:13:54 - Pokretanje izbornika
+
+13/01/2020 15:13:56 - Pregled svih zaposlenika
+
+13/01/2020 15:14:14 - Izlaz iz programa
+
+13/01/2020 15:15:02 - Izbor prijave
+
+13/01/2020 15:15:03 - Prijava kao administrator
+
+13/01/2020 15:15:08 - Pokretanje izbornika
+
+13/01/2020 15:15:09 - Pregled svih zaposlenika
+
+13/01/2020 15:15:32 - Povratak u glavni izbornik
+
+13/01/2020 15:15:33 - Pokretanje izbornika
+
+13/01/2020 15:15:35 - Odjava
+
+13/01/2020 15:16:05 - Izbor prijave
+
+13/01/2020 15:16:06 - Prijava kao administrator
+
+13/01/2020 15:16:09 - Pokretanje izbornika
+
+13/01/2020 15:16:10 - Pregled svih zaposlenika
+
+13/01/2020 15:16:31 - Povratak u glavni izbornik
+
+13/01/2020 15:16:31 - Pokretanje izbornika
+
+13/01/2020 15:16:34 - Pregled djelatnosti po gradovima
+
+13/01/2020 15:17:15 - Izlaz iz programa
+
+13/01/2020 15:34:22 - Izbor prijave
+
+13/01/2020 15:34:23 - Prijava kao administrator
+
+13/01/2020 15:34:26 - Pokretanje izbornika
+
+13/01/2020 15:34:29 - Pregled svih ordinacija
+
+13/01/2020 15:34:36 - Povratak u glavni izbornik
+
+13/01/2020 15:34:36 - Pokretanje izbornika
+
+13/01/2020 15:34:37 - Pregled djelatnosti po gradovima
+
+13/01/2020 15:34:46 - Povratak u glavni izbornik
+
+13/01/2020 15:34:46 - Pokretanje izbornika
+
+13/01/2020 15:34:48 - Odjava
+
+14/01/2020 14:12:14 - Izbor prijave
+
+14/01/2020 14:12:15 - Prijava kao administrator
+
+14/01/2020 14:12:25 - Izbor prijave
+
+14/01/2020 14:12:26 - Prijava kao administrator
+
+14/01/2020 14:12:31 - Pokretanje izbornika
+
+14/01/2020 14:12:32 - Pregled svih ordinacija
+
+14/01/2020 14:12:47 - Izlaz iz programa
+
+14/01/2020 14:14:02 - Izbor prijave
+
+14/01/2020 14:14:07 - Prijava kao administrator
+
+14/01/2020 14:14:17 - Pokretanje izbornika
+
+14/01/2020 14:14:18 - Pregled svih ordinacija
+
+14/01/2020 14:43:02 - Izbor prijave
+
+14/01/2020 14:43:05 - Prijava kao administrator
+
+14/01/2020 14:43:11 - Pokretanje izbornika
+
+14/01/2020 14:43:13 - Odjava
+
+14/01/2020 14:43:17 - Izbor prijave
+
+14/01/2020 14:43:24 - Prijava kao administrator
+
+14/01/2020 14:43:36 - Izbor prijave
+
+14/01/2020 14:43:40 - Prijava kao korisnik
+
+14/01/2020 14:43:48 - Pokretanje izbornika
+
+14/01/2020 14:43:59 - Odjava
+
+14/01/2020 14:46:38 - Izbor prijave
+
+14/01/2020 14:46:39 - Prijava kao administrator
+
+14/01/2020 14:46:49 - Izbor prijave
+
+14/01/2020 14:46:50 - Prijava kao korisnik
+
+14/01/2020 14:46:56 - Pokretanje izbornika
+
+14/01/2020 14:46:59 - Odjava
+
+14/01/2020 14:49:36 - Izbor prijave
+
+14/01/2020 14:49:37 - Prijava kao administrator
+
+14/01/2020 14:49:43 - Pokretanje izbornika
+
+14/01/2020 14:49:44 - Pregled svih ordinacija
+
+14/01/2020 14:50:09 - Izlaz iz programa
+
+14/01/2020 15:30:27 - Izbor prijave
+
+14/01/2020 15:30:27 - Prijava kao administrator
+
+14/01/2020 15:30:31 - Pokretanje izbornika
+
+14/01/2020 15:30:34 - Povratak u glavni izbornik
+
+14/01/2020 15:30:34 - Pokretanje izbornika
+
+14/01/2020 15:30:37 - Odjava
+
+14/01/2020 15:31:28 - Izbor prijave
+
+14/01/2020 15:31:29 - Prijava kao administrator
+
+14/01/2020 15:31:32 - Pokretanje izbornika
+
+14/01/2020 15:31:34 - Dodaj doktora
+
+14/01/2020 15:32:37 - Izlaz iz programa
+
+14/01/2020 15:37:11 - Izbor prijave
+
+14/01/2020 15:37:11 - Prijava kao administrator
+
+14/01/2020 15:37:15 - Pokretanje izbornika
+
+14/01/2020 15:37:17 - Dodaj doktora
+
+14/01/2020 15:37:50 - Izlaz iz programa
+
+14/01/2020 15:45:50 - Izbor prijave
+
+14/01/2020 15:45:52 - Prijava kao administrator
+
+14/01/2020 15:45:55 - Pokretanje izbornika
+
+14/01/2020 15:45:56 - Pregled svih ordinacija
+
+14/01/2020 15:45:57 - Izlaz iz programa
+
+14/01/2020 16:01:39 - Izbor prijave
+
+14/01/2020 16:01:39 - Prijava kao administrator
+
+14/01/2020 16:01:43 - Pokretanje izbornika
+
+14/01/2020 16:01:45 - Dodaj doktora
+
+14/01/2020 16:02:08 - Povratak u glavni izbornik
+
+14/01/2020 16:02:08 - Pokretanje izbornika
+
+14/01/2020 16:02:11 - Dodaj doktora
+
+14/01/2020 16:06:42 - Izbor prijave
+
+14/01/2020 16:06:43 - Prijava kao administrator
+
+14/01/2020 16:06:46 - Pokretanje izbornika
+
+14/01/2020 16:06:51 - Dodaj sestru
+
+15/01/2020 14:22:15 - Izbor prijave
+
+15/01/2020 14:22:16 - Prijava kao administrator
+
+15/01/2020 14:22:19 - Pokretanje glavnog izbornika
+
+15/01/2020 14:22:22 - Dodaj sestru
+
+15/01/2020 14:24:20 - Izbor prijave
+
+15/01/2020 14:24:21 - Prijava kao administrator
+
+15/01/2020 14:24:26 - Pokretanje glavnog izbornika
+
+15/01/2020 14:24:29 - Dodaj sestru
+
+15/01/2020 18:00:45 - Izbor prijave
+
+15/01/2020 18:00:49 - Prijava kao administrator
+
+15/01/2020 18:00:53 - Pokretanje glavnog izbornika
+
+15/01/2020 18:00:57 - Dodaj sestru
+
+15/01/2020 18:03:14 - Izbor prijave
+
+15/01/2020 18:03:15 - Prijava kao administrator
+
+15/01/2020 18:03:18 - Pokretanje glavnog izbornika
+
+15/01/2020 18:03:20 - Dodaj sestru
+
+15/01/2020 18:07:29 - Izbor prijave
+
+15/01/2020 18:07:30 - Prijava kao administrator
+
+15/01/2020 18:07:33 - Pokretanje glavnog izbornika
+
+15/01/2020 18:07:36 - Dodaj sestru
+
+15/01/2020 18:09:59 - Izbor prijave
+
+15/01/2020 18:10:01 - Prijava kao administrator
+
+15/01/2020 18:10:05 - Pokretanje glavnog izbornika
+
+15/01/2020 18:10:07 - Dodaj sestru
+
+15/01/2020 18:13:48 - Izbor prijave
+
+15/01/2020 18:13:48 - Prijava kao administrator
+
+15/01/2020 18:13:51 - Pokretanje glavnog izbornika
+
+15/01/2020 18:13:53 - Dodaj sestru
+
+15/01/2020 18:14:03 - Povratak u glavni izbornik
+
+15/01/2020 18:14:03 - Pokretanje glavnog izbornika
+
+15/01/2020 18:14:05 - Odjava
+
+15/01/2020 18:35:20 - Izbor prijave
+
+15/01/2020 18:35:21 - Prijava kao administrator
+
+15/01/2020 18:35:26 - Pokretanje glavnog izbornika
+
+15/01/2020 18:35:29 - Dodaj sestru
+
+15/01/2020 18:37:07 - Izbor prijave
+
+15/01/2020 18:37:07 - Prijava kao administrator
+
+15/01/2020 18:37:11 - Pokretanje glavnog izbornika
+
+15/01/2020 18:37:14 - Dodaj sestru
+
+15/01/2020 18:37:38 - Izbor prijave
+
+15/01/2020 18:37:38 - Prijava kao administrator
+
+15/01/2020 18:37:43 - Pokretanje glavnog izbornika
+
+15/01/2020 18:37:45 - Dodaj sestru
+
+15/01/2020 18:37:52 - Povratak u glavni izbornik
+
+15/01/2020 18:37:52 - Pokretanje glavnog izbornika
+
+15/01/2020 18:37:54 - Odjava
+
+15/01/2020 18:39:02 - Izbor prijave
+
+15/01/2020 18:39:03 - Prijava kao administrator
+
+15/01/2020 18:39:07 - Pokretanje glavnog izbornika
+
+15/01/2020 18:39:10 - Dodaj sestru
+
+15/01/2020 18:42:24 - Izbor prijave
+
+15/01/2020 18:42:24 - Prijava kao administrator
+
+15/01/2020 18:42:31 - Pokretanje glavnog izbornika
+
+15/01/2020 18:42:34 - Dodaj sestru
+
+15/01/2020 18:42:42 - Izlaz iz programa
+
+19/01/2020 11:34:35 - Izbor prijave
+
+19/01/2020 11:34:36 - Prijava kao administrator
+
+19/01/2020 11:34:42 - Pokretanje glavnog izbornika
+
+19/01/2020 11:34:46 - Pregled svih ordinacija
+
+19/01/2020 11:34:57 - Povratak u glavni izbornik
+
+19/01/2020 11:34:57 - Pokretanje glavnog izbornika
+
+19/01/2020 11:34:59 - Pregled djelatnosti po gradovima
+
+19/01/2020 11:35:49 - Izbor prijave
+
+19/01/2020 11:35:52 - Prijava kao administrator
+
+19/01/2020 11:36:01 - Izbor prijave
+
+19/01/2020 11:36:02 - Prijava kao administrator
+
+19/01/2020 11:36:10 - Pokretanje glavnog izbornika
+
+19/01/2020 11:36:14 - Pregled djelatnosti po gradovima
+
+19/01/2020 11:36:46 - Povratak u glavni izbornik
+
+19/01/2020 11:36:46 - Pokretanje glavnog izbornika
+
+19/01/2020 11:36:52 - Statistika djelatnosti
+
+19/01/2020 11:37:16 - Povratak u glavni izbornik
+
+19/01/2020 11:37:16 - Pokretanje glavnog izbornika
+
+19/01/2020 11:37:38 - Dodaj doktora
+
+19/01/2020 11:38:41 - Povratak u glavni izbornik
+
+19/01/2020 11:38:41 - Pokretanje glavnog izbornika
+
+19/01/2020 11:38:44 - Dodaj sestru
+
+19/01/2020 11:38:59 - Pokretanje glavnog izbornika
+
+19/01/2020 11:39:02 - Odjava
+
+19/01/2020 12:04:14 - Izbor prijave
+
+19/01/2020 12:04:16 - Prijava kao administrator
+
+19/01/2020 12:05:03 - Izbor prijave
+
+19/01/2020 12:05:04 - Prijava kao administrator
+
+19/01/2020 12:05:36 - Izbor prijave
+
+19/01/2020 12:05:42 - Prijava kao korisnik
+
+19/01/2020 12:05:59 - Izbor prijave
+
+19/01/2020 12:06:01 - Prijava kao korisnik
+
+19/01/2020 12:10:24 - Izbor prijave
+
+19/01/2020 12:10:26 - Prijava kao korisnik
+
+19/01/2020 12:12:26 - Izbor prijave
+
+19/01/2020 12:12:28 - Prijava kao korisnik
+
+19/01/2020 12:12:30 - Pokretanje glavnog izbornika
+
+19/01/2020 12:12:37 - Odjava
+
+19/01/2020 12:13:07 - Izbor prijave
+
+19/01/2020 12:13:08 - Prijava kao korisnik
+
+19/01/2020 12:13:09 - Pokretanje glavnog izbornika
+
+19/01/2020 12:14:57 - Izbor prijave
+
+19/01/2020 12:14:57 - Prijava kao korisnik
+
+19/01/2020 12:15:24 - Izbor prijave
+
+19/01/2020 12:15:25 - Prijava kao korisnik
+
+19/01/2020 12:15:28 - Pokretanje glavnog izbornika
+
+19/01/2020 12:15:30 - Odjava
+
+19/01/2020 12:23:34 - Izbor prijave
+
+19/01/2020 12:23:36 - Prijava kao administrator
+
+19/01/2020 12:23:40 - Pokretanje glavnog izbornika
+
+19/01/2020 12:23:44 - Pregled svih ordinacija
+
+19/01/2020 12:23:52 - Izlaz iz programa
+
+19/01/2020 12:24:08 - Izbor prijave
+
+19/01/2020 12:24:09 - Prijava kao administrator
+
+19/01/2020 12:24:12 - Pokretanje glavnog izbornika
+
+19/01/2020 12:24:13 - Pregled svih ordinacija
+
+19/01/2020 12:24:54 - Povratak u glavni izbornik
+
+19/01/2020 12:24:54 - Pokretanje glavnog izbornika
+
+19/01/2020 12:24:56 - Pregled djelatnosti po gradovima
+
+19/01/2020 12:25:07 - Izlaz iz programa
+
+19/01/2020 12:35:24 - Izbor prijave
+
+19/01/2020 12:35:25 - Prijava kao administrator
+
+19/01/2020 12:35:31 - Pokretanje glavnog izbornika
+
+19/01/2020 12:35:34 - Dodaj doktora
+
+19/01/2020 12:44:09 - Izbor prijave
+
+19/01/2020 12:44:10 - Prijava kao administrator
+
+19/01/2020 12:44:16 - Pokretanje glavnog izbornika
+
+19/01/2020 12:44:18 - Pregled djelatnosti po gradovima
+
+19/01/2020 12:44:28 - Izlaz iz programa
+
+19/01/2020 12:45:36 - Izbor prijave
+
+19/01/2020 12:45:37 - Prijava kao administrator
+
+19/01/2020 12:45:41 - Pokretanje glavnog izbornika
+
+19/01/2020 12:45:42 - Pregled djelatnosti po gradovima
+
+19/01/2020 12:49:55 - Izbor prijave
+
+19/01/2020 12:49:56 - Prijava kao administrator
+
+19/01/2020 12:50:03 - Pokretanje glavnog izbornika
+
+19/01/2020 12:50:04 - Pregled djelatnosti po gradovima
+
+19/01/2020 12:50:19 - Izlaz iz programa
+
+19/01/2020 12:50:57 - Izbor prijave
+
+19/01/2020 12:50:58 - Prijava kao administrator
+
+19/01/2020 12:51:02 - Pokretanje glavnog izbornika
+
+19/01/2020 12:51:03 - Pregled djelatnosti po gradovima
+
+19/01/2020 12:51:19 - Povratak u glavni izbornik
+
+19/01/2020 12:51:19 - Pokretanje glavnog izbornika
+
+19/01/2020 12:51:22 - Pregled djelatnosti po gradovima
+
+19/01/2020 12:51:32 - Izlaz iz programa
+
+19/01/2020 13:00:19 - Izbor prijave
+
+19/01/2020 13:00:35 - Izbor prijave
+
+19/01/2020 13:00:36 - Prijava kao administrator
+
+19/01/2020 13:00:39 - Pokretanje glavnog izbornika
+
+19/01/2020 13:00:42 - Pregled djelatnosti po gradovima
+
+19/01/2020 13:01:08 - Povratak u glavni izbornik
+
+19/01/2020 13:01:08 - Pokretanje glavnog izbornika
+
+19/01/2020 13:01:10 - Pregled djelatnosti po gradovima
+
+19/01/2020 13:01:19 - Povratak u glavni izbornik
+
+19/01/2020 13:01:19 - Pokretanje glavnog izbornika
+
+19/01/2020 13:01:20 - Pregled djelatnosti po gradovima
+
+19/01/2020 13:01:34 - Pokretanje glavnog izbornika
+
+19/01/2020 13:07:15 - Izbor prijave
+
+19/01/2020 13:07:16 - Prijava kao administrator
+
+19/01/2020 13:07:23 - Pokretanje glavnog izbornika
+
+19/01/2020 13:07:24 - Pregled djelatnosti po gradovima
+
+19/01/2020 13:07:33 - Povratak u glavni izbornik
+
+19/01/2020 13:07:33 - Pokretanje glavnog izbornika
+
+19/01/2020 13:07:34 - Pregled djelatnosti po gradovima
+
+19/01/2020 13:07:49 - Izlaz iz programa
+
+19/01/2020 13:10:19 - Izbor prijave
+
+19/01/2020 13:10:20 - Prijava kao administrator
+
+19/01/2020 13:10:23 - Pokretanje glavnog izbornika
+
+19/01/2020 13:10:24 - Pregled djelatnosti po gradovima
+
+19/01/2020 13:10:31 - Izlaz iz programa
+
+19/01/2020 13:33:23 - Izbor prijave
+
+19/01/2020 13:33:24 - Prijava kao administrator
+
+19/01/2020 13:33:28 - Pokretanje glavnog izbornika
+
+19/01/2020 13:33:29 - Pregled svih ordinacija
+
+19/01/2020 13:33:42 - Povratak u glavni izbornik
+
+19/01/2020 13:33:42 - Pokretanje glavnog izbornika
+
+19/01/2020 13:33:43 - Pregled djelatnosti po gradovima
+
+19/01/2020 13:33:52 - Povratak u glavni izbornik
+
+19/01/2020 13:33:53 - Pokretanje glavnog izbornika
+
+19/01/2020 13:33:54 - Statistika djelatnosti
+
+19/01/2020 13:34:01 - Izlaz iz programa
+
+20/01/2020 09:40:55 - Izbor prijave
+
+20/01/2020 09:40:56 - Prijava kao administrator
+
+20/01/2020 09:41:00 - Pokretanje glavnog izbornika
+
+20/01/2020 09:41:03 - Pregled svih ordinacija
+
+20/01/2020 09:41:41 - Pokretanje glavnog izbornika
+
+20/01/2020 09:41:53 - Izbor prijave
+
+20/01/2020 09:41:54 - Prijava kao administrator
+
+20/01/2020 09:41:57 - Pokretanje glavnog izbornika
+
+20/01/2020 09:41:59 - Pregled djelatnosti po gradovima
+
+20/01/2020 09:42:07 - Povratak u glavni izbornik
+
+20/01/2020 09:42:07 - Pokretanje glavnog izbornika
+
+20/01/2020 09:42:09 - Pregled svih zaposlenika
+
+20/01/2020 09:42:55 - Povratak u glavni izbornik
+
+20/01/2020 09:42:56 - Pokretanje glavnog izbornika
+
+20/01/2020 09:42:57 - Statistika djelatnosti
+
+20/01/2020 09:43:10 - Povratak u glavni izbornik
+
+20/01/2020 09:43:10 - Pokretanje glavnog izbornika
+
+20/01/2020 09:43:36 - Dodaj doktora
+
+20/01/2020 09:44:28 - Povratak u glavni izbornik
+
+20/01/2020 09:44:28 - Pokretanje glavnog izbornika
+
+20/01/2020 09:44:30 - Dodaj sestru
+
+20/01/2020 09:44:42 - Povratak u glavni izbornik
+
+20/01/2020 09:44:43 - Pokretanje glavnog izbornika
+
+20/01/2020 09:44:45 - Dodaj sestru
+
+20/01/2020 09:45:19 - Povratak u glavni izbornik
+
+20/01/2020 09:45:19 - Pokretanje glavnog izbornika
+
+20/01/2020 09:45:20 - Odjava
+
+20/01/2020 09:46:49 - Izbor prijave
+
+20/01/2020 09:46:50 - Prijava kao administrator
+
+20/01/2020 09:46:53 - Pokretanje glavnog izbornika
+
+20/01/2020 09:46:54 - Pregled djelatnosti po gradovima
+
+20/01/2020 09:47:22 - Izlaz iz programa
+
+20/01/2020 09:48:22 - Izbor prijave
+
+20/01/2020 09:48:23 - Prijava kao korisnik
+
+20/01/2020 09:48:29 - Pokretanje glavnog izbornika
+
+20/01/2020 09:49:11 - Odjava
+
+20/01/2020 09:49:20 - Izbor prijave
+
+20/01/2020 09:49:21 - Prijava kao administrator
+
+20/01/2020 09:49:23 - Pokretanje glavnog izbornika
+
+20/01/2020 09:49:24 - Pregled svih ordinacija
+
+20/01/2020 09:49:49 - Izbor prijave
+
+20/01/2020 09:49:50 - Prijava kao administrator
+
+20/01/2020 09:49:53 - Pokretanje glavnog izbornika
+
+20/01/2020 09:49:53 - Pregled svih ordinacija
+
+20/01/2020 09:50:12 - Povratak u glavni izbornik
+
+20/01/2020 09:50:12 - Pokretanje glavnog izbornika
+
+20/01/2020 09:50:14 - Odjava
+
+20/01/2020 09:51:07 - Izbor prijave
+
+20/01/2020 09:51:07 - Prijava kao korisnik
+
+20/01/2020 09:51:25 - Pokretanje glavnog izbornika
+
+20/01/2020 09:52:37 - Odjava
+
+20/01/2020 09:53:26 - Izbor prijave
+
+20/01/2020 09:53:26 - Prijava kao administrator
+
+20/01/2020 09:53:33 - Izbor prijave
+
+20/01/2020 09:53:34 - Prijava kao korisnik
+
+20/01/2020 09:53:39 - Pokretanje glavnog izbornika
+
+20/01/2020 09:54:15 - Izlaz iz programa
+
+20/01/2020 10:55:27 - Izbor prijave
+
+20/01/2020 10:55:28 - Prijava kao administrator
+
+20/01/2020 10:55:32 - Pokretanje glavnog izbornika
+
+20/01/2020 10:55:35 - Pregled svih ordinacija
+
+20/01/2020 10:55:51 - Izlaz iz programa
+
+20/01/2020 10:58:16 - Izbor prijave
+
+20/01/2020 10:58:17 - Prijava kao korisnik
+
+20/01/2020 10:58:22 - Pokretanje glavnog izbornika
+
+20/01/2020 11:03:58 - Izbor prijave
+
+20/01/2020 11:03:58 - Prijava kao korisnik
+
+20/01/2020 11:04:04 - Pokretanje glavnog izbornika
+
+20/01/2020 11:04:06 - Odjava
+
+20/01/2020 11:04:24 - Izbor prijave
+
+20/01/2020 11:04:24 - Prijava kao administrator
+
+20/01/2020 11:04:29 - Pokretanje glavnog izbornika
+
+20/01/2020 11:05:18 - Izbor prijave
+
+20/01/2020 11:05:18 - Prijava kao administrator
+
+20/01/2020 11:05:21 - Pokretanje glavnog izbornika
+
+20/01/2020 11:05:22 - Pregled djelatnosti po gradovima
+
+20/01/2020 11:05:40 - Izlaz iz programa
+
+20/01/2020 11:15:11 - Izbor prijave
+
+20/01/2020 11:15:13 - Prijava kao administrator
+
+20/01/2020 11:15:17 - Pokretanje glavnog izbornika
+
+20/01/2020 11:15:20 - Pregled djelatnosti po gradovima
+
+20/01/2020 11:15:41 - Izlaz iz programa
+
+26/01/2020 12:19:29 - Izbor prijave
+
+26/01/2020 12:19:32 - Prijava kao administrator
+
+26/01/2020 12:19:35 - Pokretanje glavnog izbornika
+
+26/01/2020 12:19:39 - Dodaj doktora
+
+26/01/2020 12:20:52 - Izlaz iz programa
+
+26/01/2020 12:23:26 - Izbor prijave
+
+26/01/2020 12:23:28 - Prijava kao administrator
+
+26/01/2020 12:23:31 - Pokretanje glavnog izbornika
+
+26/01/2020 12:23:32 - Pregled svih ordinacija
+
+31/01/2020 12:42:17 - Izbor prijave
+
+31/01/2020 12:42:18 - Prijava kao administrator
+
+31/01/2020 12:42:23 - Pokretanje glavnog izbornika
+
+31/01/2020 12:42:24 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:42:44 - Izlaz iz programa
+
+31/01/2020 12:43:11 - Izbor prijave
+
+31/01/2020 12:43:12 - Prijava kao administrator
+
+31/01/2020 12:43:22 - Pokretanje glavnog izbornika
+
+31/01/2020 12:43:23 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:43:50 - Izlaz iz programa
+
+31/01/2020 12:44:03 - Izbor prijave
+
+31/01/2020 12:44:04 - Prijava kao administrator
+
+31/01/2020 12:44:08 - Pokretanje glavnog izbornika
+
+31/01/2020 12:44:08 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:44:23 - Povratak u glavni izbornik
+
+31/01/2020 12:44:23 - Pokretanje glavnog izbornika
+
+31/01/2020 12:44:24 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:44:31 - Povratak u glavni izbornik
+
+31/01/2020 12:44:31 - Pokretanje glavnog izbornika
+
+31/01/2020 12:44:33 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:44:52 - Povratak u glavni izbornik
+
+31/01/2020 12:44:52 - Pokretanje glavnog izbornika
+
+31/01/2020 12:44:54 - Odjava
+
+31/01/2020 12:47:14 - Izbor prijave
+
+31/01/2020 12:47:15 - Prijava kao administrator
+
+31/01/2020 12:47:19 - Pokretanje glavnog izbornika
+
+31/01/2020 12:47:25 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:47:36 - Povratak u glavni izbornik
+
+31/01/2020 12:47:36 - Pokretanje glavnog izbornika
+
+31/01/2020 12:47:38 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:47:59 - Izbor prijave
+
+31/01/2020 12:47:59 - Prijava kao administrator
+
+31/01/2020 12:48:03 - Pokretanje glavnog izbornika
+
+31/01/2020 12:48:08 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:52:58 - Izbor prijave
+
+31/01/2020 12:52:59 - Prijava kao administrator
+
+31/01/2020 12:53:03 - Pokretanje glavnog izbornika
+
+31/01/2020 12:53:04 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:53:37 - Izbor prijave
+
+31/01/2020 12:53:38 - Prijava kao administrator
+
+31/01/2020 12:53:42 - Pokretanje glavnog izbornika
+
+31/01/2020 12:53:43 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:54:08 - Izbor prijave
+
+31/01/2020 12:54:09 - Prijava kao administrator
+
+31/01/2020 12:54:12 - Pokretanje glavnog izbornika
+
+31/01/2020 12:54:13 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:54:39 - Izbor prijave
+
+31/01/2020 12:54:40 - Prijava kao administrator
+
+31/01/2020 12:54:45 - Pokretanje glavnog izbornika
+
+31/01/2020 12:54:45 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:58:20 - Izbor prijave
+
+31/01/2020 12:58:23 - Prijava kao administrator
+
+31/01/2020 12:58:26 - Pokretanje glavnog izbornika
+
+31/01/2020 12:58:28 - Pregled djelatnosti po gradovima
+
+31/01/2020 12:58:47 - Izlaz iz programa
+
+31/01/2020 13:07:23 - Izbor prijave
+
+31/01/2020 13:07:26 - Prijava kao administrator
+
+31/01/2020 13:07:30 - Pokretanje glavnog izbornika
+
+31/01/2020 13:07:31 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:07:41 - Izlaz iz programa
+
+31/01/2020 13:08:44 - Izbor prijave
+
+31/01/2020 13:08:44 - Prijava kao administrator
+
+31/01/2020 13:08:47 - Pokretanje glavnog izbornika
+
+31/01/2020 13:08:48 - Pregled svih ordinacija
+
+31/01/2020 13:09:15 - Povratak u glavni izbornik
+
+31/01/2020 13:09:15 - Pokretanje glavnog izbornika
+
+31/01/2020 13:09:16 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:09:23 - Povratak u glavni izbornik
+
+31/01/2020 13:09:23 - Pokretanje glavnog izbornika
+
+31/01/2020 13:09:23 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:09:32 - Povratak u glavni izbornik
+
+31/01/2020 13:09:32 - Pokretanje glavnog izbornika
+
+31/01/2020 13:09:34 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:09:45 - Povratak u glavni izbornik
+
+31/01/2020 13:09:46 - Pokretanje glavnog izbornika
+
+31/01/2020 13:09:47 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:10:36 - Izbor prijave
+
+31/01/2020 13:10:37 - Prijava kao administrator
+
+31/01/2020 13:10:40 - Pokretanje glavnog izbornika
+
+31/01/2020 13:10:40 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:10:46 - Povratak u glavni izbornik
+
+31/01/2020 13:10:47 - Pokretanje glavnog izbornika
+
+31/01/2020 13:10:47 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:10:56 - Povratak u glavni izbornik
+
+31/01/2020 13:10:57 - Pokretanje glavnog izbornika
+
+31/01/2020 13:10:58 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:11:17 - Izlaz iz programa
+
+31/01/2020 13:13:49 - Izbor prijave
+
+31/01/2020 13:13:50 - Prijava kao administrator
+
+31/01/2020 13:13:52 - Pokretanje glavnog izbornika
+
+31/01/2020 13:13:54 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:14:24 - Povratak u glavni izbornik
+
+31/01/2020 13:14:24 - Pokretanje glavnog izbornika
+
+31/01/2020 13:14:25 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:15:20 - Izbor prijave
+
+31/01/2020 13:15:21 - Prijava kao administrator
+
+31/01/2020 13:15:25 - Pokretanje glavnog izbornika
+
+31/01/2020 13:15:26 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:15:35 - Povratak u glavni izbornik
+
+31/01/2020 13:15:35 - Pokretanje glavnog izbornika
+
+31/01/2020 13:15:36 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:16:00 - Povratak u glavni izbornik
+
+31/01/2020 13:16:00 - Pokretanje glavnog izbornika
+
+31/01/2020 13:16:02 - Odjava
+
+31/01/2020 13:17:35 - Izbor prijave
+
+31/01/2020 13:17:35 - Prijava kao administrator
+
+31/01/2020 13:17:43 - Pokretanje glavnog izbornika
+
+31/01/2020 13:17:46 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:17:52 - Povratak u glavni izbornik
+
+31/01/2020 13:17:53 - Pokretanje glavnog izbornika
+
+31/01/2020 13:17:53 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:18:08 - Povratak u glavni izbornik
+
+31/01/2020 13:18:08 - Pokretanje glavnog izbornika
+
+31/01/2020 13:18:08 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:21:25 - Izbor prijave
+
+31/01/2020 13:21:26 - Prijava kao administrator
+
+31/01/2020 13:21:30 - Pokretanje glavnog izbornika
+
+31/01/2020 13:21:32 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:21:47 - Izlaz iz programa
+
+31/01/2020 13:22:00 - Izbor prijave
+
+31/01/2020 13:22:00 - Prijava kao administrator
+
+31/01/2020 13:22:03 - Pokretanje glavnog izbornika
+
+31/01/2020 13:22:07 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:22:43 - Izlaz iz programa
+
+31/01/2020 13:27:47 - Izbor prijave
+
+31/01/2020 13:27:48 - Prijava kao administrator
+
+31/01/2020 13:27:51 - Pokretanje glavnog izbornika
+
+31/01/2020 13:27:52 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:28:29 - Izbor prijave
+
+31/01/2020 13:28:30 - Prijava kao administrator
+
+31/01/2020 13:28:33 - Pokretanje glavnog izbornika
+
+31/01/2020 13:28:34 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:30:25 - Izbor prijave
+
+31/01/2020 13:30:26 - Prijava kao administrator
+
+31/01/2020 13:30:30 - Pokretanje glavnog izbornika
+
+31/01/2020 13:30:31 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:31:40 - Izbor prijave
+
+31/01/2020 13:31:41 - Prijava kao administrator
+
+31/01/2020 13:31:43 - Pokretanje glavnog izbornika
+
+31/01/2020 13:31:45 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:34:24 - Izbor prijave
+
+31/01/2020 13:34:25 - Prijava kao administrator
+
+31/01/2020 13:34:28 - Pokretanje glavnog izbornika
+
+31/01/2020 13:34:29 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:36:15 - Izbor prijave
+
+31/01/2020 13:36:15 - Prijava kao administrator
+
+31/01/2020 13:36:20 - Pokretanje glavnog izbornika
+
+31/01/2020 13:36:21 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:43:43 - Izbor prijave
+
+31/01/2020 13:43:44 - Prijava kao administrator
+
+31/01/2020 13:43:47 - Pokretanje glavnog izbornika
+
+31/01/2020 13:43:48 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:48:29 - Izbor prijave
+
+31/01/2020 13:48:30 - Prijava kao administrator
+
+31/01/2020 13:48:33 - Pokretanje glavnog izbornika
+
+31/01/2020 13:48:37 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:48:52 - Povratak u glavni izbornik
+
+31/01/2020 13:48:52 - Pokretanje glavnog izbornika
+
+31/01/2020 13:48:53 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:49:00 - Povratak u glavni izbornik
+
+31/01/2020 13:49:00 - Pokretanje glavnog izbornika
+
+31/01/2020 13:49:01 - Odjava
+
+31/01/2020 13:49:42 - Izbor prijave
+
+31/01/2020 13:49:43 - Prijava kao administrator
+
+31/01/2020 13:49:46 - Pokretanje glavnog izbornika
+
+31/01/2020 13:49:47 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:50:14 - Povratak u glavni izbornik
+
+31/01/2020 13:50:15 - Pokretanje glavnog izbornika
+
+31/01/2020 13:50:15 - Pregled djelatnosti po gradovima
+
+31/01/2020 13:50:30 - Izlaz iz programa
+
+01/02/2020 10:39:06 - Izbor prijave
+
+01/02/2020 10:39:08 - Prijava kao administrator
+
+01/02/2020 10:39:12 - Pokretanje glavnog izbornika
+
+01/02/2020 10:39:18 - Pregled svih zaposlenika
+
+01/02/2020 10:39:29 - Povratak u glavni izbornik
+
+01/02/2020 10:39:30 - Pokretanje glavnog izbornika
+
+01/02/2020 10:39:31 - Pregled svih zaposlenika
+
+01/02/2020 10:39:44 - Izlaz iz programa
+
+01/02/2020 10:40:08 - Izbor prijave
+
+01/02/2020 10:40:09 - Prijava kao administrator
+
+01/02/2020 10:40:12 - Pokretanje glavnog izbornika
+
+01/02/2020 10:40:15 - Statistika djelatnosti
+
+01/02/2020 10:40:20 - Povratak u glavni izbornik
+
+01/02/2020 10:40:20 - Pokretanje glavnog izbornika
+
+01/02/2020 10:40:22 - Odjava
+
+01/02/2020 10:40:27 - Izbor prijave
+
+01/02/2020 10:40:29 - Prijava kao korisnik
+
+01/02/2020 10:40:36 - Pokretanje glavnog izbornika
+
+01/02/2020 10:40:40 - Pregled svih ordinacija
+
+01/02/2020 10:40:45 - Povratak u glavni izbornik
+
+01/02/2020 10:40:45 - Pokretanje glavnog izbornika
+
+01/02/2020 10:40:46 - Pregled djelatnosti po gradovima
+
+01/02/2020 10:40:52 - Povratak u glavni izbornik
+
+01/02/2020 10:40:52 - Pokretanje glavnog izbornika
+
+01/02/2020 10:40:54 - Pregled svih zaposlenika
+
+01/02/2020 10:41:02 - Povratak u glavni izbornik
+
+01/02/2020 10:41:02 - Pokretanje glavnog izbornika
+
+01/02/2020 10:41:04 - Statistika djelatnosti
+
+01/02/2020 10:41:08 - Povratak u glavni izbornik
+
+01/02/2020 10:41:08 - Pokretanje glavnog izbornika
+
+01/02/2020 10:41:10 - Odjava
+
+01/02/2020 10:48:24 - Izbor prijave
+
+01/02/2020 10:48:25 - Prijava kao administrator
+
+01/02/2020 10:48:28 - Pokretanje glavnog izbornika
+
+01/02/2020 10:48:30 - Dodaj doktora
+
+01/02/2020 10:50:32 - Izbor prijave
+
+01/02/2020 10:50:34 - Prijava kao administrator
+
+01/02/2020 10:50:41 - Pokretanje glavnog izbornika
+
+01/02/2020 10:50:44 - Dodaj doktora
+
+01/02/2020 10:53:37 - Izbor prijave
+
+01/02/2020 10:53:38 - Prijava kao administrator
+
+01/02/2020 10:53:48 - Pokretanje glavnog izbornika
+
+01/02/2020 10:53:52 - Dodaj doktora
+
+01/02/2020 10:54:59 - Izbor prijave
+
+01/02/2020 10:54:59 - Prijava kao administrator
+
+01/02/2020 10:55:03 - Pokretanje glavnog izbornika
+
+01/02/2020 10:55:06 - Dodaj doktora
+
+01/02/2020 10:56:01 - Izbor prijave
+
+01/02/2020 10:56:01 - Prijava kao administrator
+
+01/02/2020 10:56:04 - Pokretanje glavnog izbornika
+
+01/02/2020 10:56:07 - Dodaj doktora
+
+01/02/2020 10:57:17 - Izbor prijave
+
+01/02/2020 10:57:18 - Prijava kao administrator
+
+01/02/2020 10:57:21 - Pokretanje glavnog izbornika
+
+01/02/2020 10:57:23 - Dodaj doktora
+
+01/02/2020 15:41:20 - Izbor prijave
+
+01/02/2020 15:41:21 - Prijava kao korisnik
+
+01/02/2020 15:41:25 - Pokretanje glavnog izbornika
+
+01/02/2020 15:41:27 - Odjava
+
+01/02/2020 15:43:00 - Izbor prijave
+
+01/02/2020 15:43:00 - Prijava kao administrator
+
+01/02/2020 15:43:09 - Izbor prijave
+
+01/02/2020 15:43:10 - Prijava kao administrator
+
+01/02/2020 15:43:16 - Izbor prijave
+
+01/02/2020 15:43:16 - Prijava kao korisnik
+
+01/02/2020 15:43:33 - Izbor prijave
+
+01/02/2020 15:43:35 - Prijava kao korisnik
+
+01/02/2020 15:44:02 - Izbor prijave
+
+01/02/2020 15:44:03 - Prijava kao korisnik
+
+01/02/2020 15:44:41 - Izbor prijave
+
+01/02/2020 15:44:42 - Prijava kao korisnik
+
+01/02/2020 15:47:43 - Izbor prijave
+
+01/02/2020 15:47:44 - Prijava kao korisnik
+
+01/02/2020 15:47:44 - Pokretanje glavnog izbornika
+
+01/02/2020 15:48:07 - Izbor prijave
+
+01/02/2020 15:48:09 - Prijava kao korisnik
+
+01/02/2020 15:48:09 - Pokretanje glavnog izbornika
+
+01/02/2020 15:48:12 - Odjava
+
+01/02/2020 15:48:36 - Izbor prijave
+
+01/02/2020 15:48:37 - Prijava kao korisnik
+
+01/02/2020 15:48:59 - Izbor prijave
+
+01/02/2020 15:49:02 - Prijava kao korisnik
+
+01/02/2020 15:49:56 - Izbor prijave
+
+01/02/2020 15:49:57 - Prijava kao administrator
+
+01/02/2020 15:50:37 - Izbor prijave
+
+01/02/2020 15:50:38 - Prijava kao administrator
+
+01/02/2020 15:50:42 - Pokretanje glavnog izbornika
+
+01/02/2020 15:50:50 - Izbor prijave
+
+01/02/2020 15:50:51 - Prijava kao korisnik
+
+01/02/2020 15:50:51 - Pokretanje glavnog izbornika
+
+01/02/2020 15:51:18 - Izbor prijave
+
+01/02/2020 15:51:18 - Prijava kao korisnik
+
+01/02/2020 15:51:24 - Pokretanje glavnog izbornika
+
+01/02/2020 15:51:31 - Odjava
+
+01/02/2020 15:51:39 - Izbor prijave
+
+01/02/2020 15:51:40 - Prijava kao korisnik
+
+01/02/2020 15:54:27 - Izbor prijave
+
+01/02/2020 15:54:28 - Prijava kao administrator
+
+01/02/2020 15:54:37 - Izbor prijave
+
+01/02/2020 15:54:38 - Prijava kao administrator
+
+01/02/2020 15:54:40 - Pokretanje glavnog izbornika
+
+01/02/2020 15:54:42 - Odjava
+
+03/02/2020 07:19:09 - Izbor prijave
+
+03/02/2020 07:19:12 - Prijava kao administrator
+
+03/02/2020 07:19:15 - Pokretanje glavnog izbornika
+
+03/02/2020 07:19:18 - Pregled svih zaposlenika
+
+03/02/2020 07:19:33 - Izlaz iz programa
+
+03/02/2020 07:19:46 - Izbor prijave
+
+03/02/2020 07:19:46 - Prijava kao administrator
+
+03/02/2020 07:19:49 - Pokretanje glavnog izbornika
+
+03/02/2020 07:19:50 - Pregled svih ordinacija
+
+03/02/2020 07:19:53 - Povratak u glavni izbornik
+
+03/02/2020 07:19:53 - Pokretanje glavnog izbornika
+
+03/02/2020 07:19:59 - Pregled svih zaposlenika
+
+03/02/2020 07:20:01 - Povratak u glavni izbornik
+
+03/02/2020 07:20:01 - Pokretanje glavnog izbornika
+
+03/02/2020 07:20:04 - Odjava
+
+03/02/2020 07:21:11 - Izbor prijave
+
+03/02/2020 07:21:12 - Prijava kao administrator
+
+03/02/2020 07:21:21 - Izbor prijave
+
+03/02/2020 07:21:22 - Prijava kao korisnik
+
+03/02/2020 07:21:38 - Pokretanje glavnog izbornika
+
+03/02/2020 07:21:44 - Odjava
+
+03/02/2020 07:23:47 - Izbor prijave
+
+03/02/2020 07:23:47 - Prijava kao administrator
+
+03/02/2020 07:23:50 - Pokretanje glavnog izbornika
+
+03/02/2020 07:23:53 - Pregled svih ordinacija
+
+03/02/2020 07:23:59 - Izlaz iz programa
+
+03/02/2020 08:17:42 - Izbor prijave
+
+03/02/2020 08:17:42 - Prijava kao administrator
+
+03/02/2020 08:17:46 - Pokretanje glavnog izbornika
+
+03/02/2020 08:17:48 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:27:37 - Izbor prijave
+
+03/02/2020 08:27:38 - Prijava kao administrator
+
+03/02/2020 08:27:41 - Pokretanje glavnog izbornika
+
+03/02/2020 08:27:44 - Pregled svih zaposlenika
+
+03/02/2020 08:28:04 - Povratak u glavni izbornik
+
+03/02/2020 08:28:04 - Pokretanje glavnog izbornika
+
+03/02/2020 08:28:07 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:29:44 - Izbor prijave
+
+03/02/2020 08:29:45 - Prijava kao administrator
+
+03/02/2020 08:29:48 - Pokretanje glavnog izbornika
+
+03/02/2020 08:29:49 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:34:17 - Izbor prijave
+
+03/02/2020 08:34:18 - Prijava kao administrator
+
+03/02/2020 08:34:21 - Pokretanje glavnog izbornika
+
+03/02/2020 08:34:23 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:35:52 - Izbor prijave
+
+03/02/2020 08:35:53 - Prijava kao administrator
+
+03/02/2020 08:35:55 - Pokretanje glavnog izbornika
+
+03/02/2020 08:35:56 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:36:41 - Izbor prijave
+
+03/02/2020 08:36:42 - Prijava kao administrator
+
+03/02/2020 08:36:46 - Pokretanje glavnog izbornika
+
+03/02/2020 08:36:50 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:41:21 - Izbor prijave
+
+03/02/2020 08:41:21 - Prijava kao administrator
+
+03/02/2020 08:41:24 - Pokretanje glavnog izbornika
+
+03/02/2020 08:41:24 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:46:56 - Izbor prijave
+
+03/02/2020 08:46:57 - Prijava kao administrator
+
+03/02/2020 08:47:01 - Pokretanje glavnog izbornika
+
+03/02/2020 08:47:03 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:49:21 - Izbor prijave
+
+03/02/2020 08:49:22 - Prijava kao administrator
+
+03/02/2020 08:49:25 - Pokretanje glavnog izbornika
+
+03/02/2020 08:49:26 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:51:15 - Izbor prijave
+
+03/02/2020 08:51:16 - Prijava kao administrator
+
+03/02/2020 08:51:18 - Pokretanje glavnog izbornika
+
+03/02/2020 08:51:20 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:51:29 - Povratak u glavni izbornik
+
+03/02/2020 08:51:30 - Pokretanje glavnog izbornika
+
+03/02/2020 08:51:30 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:52:34 - Izbor prijave
+
+03/02/2020 08:52:35 - Prijava kao administrator
+
+03/02/2020 08:52:38 - Pokretanje glavnog izbornika
+
+03/02/2020 08:52:38 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:53:20 - Izbor prijave
+
+03/02/2020 08:53:21 - Prijava kao administrator
+
+03/02/2020 08:53:23 - Pokretanje glavnog izbornika
+
+03/02/2020 08:53:24 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:53:58 - Izbor prijave
+
+03/02/2020 08:53:59 - Prijava kao administrator
+
+03/02/2020 08:54:02 - Pokretanje glavnog izbornika
+
+03/02/2020 08:54:03 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:54:19 - Povratak u glavni izbornik
+
+03/02/2020 08:54:19 - Pokretanje glavnog izbornika
+
+03/02/2020 08:54:21 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:54:30 - Povratak u glavni izbornik
+
+03/02/2020 08:54:30 - Pokretanje glavnog izbornika
+
+03/02/2020 08:54:32 - Odjava
+
+03/02/2020 08:55:21 - Izbor prijave
+
+03/02/2020 08:55:22 - Prijava kao administrator
+
+03/02/2020 08:55:25 - Pokretanje glavnog izbornika
+
+03/02/2020 08:55:27 - Pregled djelatnosti po gradovima
+
+03/02/2020 08:57:57 - Izbor prijave
+
+03/02/2020 08:57:58 - Prijava kao administrator
+
+03/02/2020 08:58:01 - Pokretanje glavnog izbornika
+
+03/02/2020 08:58:03 - Pregled djelatnosti po gradovima
+
+03/02/2020 09:01:15 - Izbor prijave
+
+03/02/2020 09:01:15 - Prijava kao administrator
+
+03/02/2020 09:01:19 - Pokretanje glavnog izbornika
+
+03/02/2020 09:01:20 - Pregled djelatnosti po gradovima
+
+03/02/2020 09:02:40 - Izbor prijave
+
+03/02/2020 09:02:41 - Prijava kao administrator
+
+03/02/2020 09:02:44 - Pokretanje glavnog izbornika
+
+03/02/2020 09:02:45 - Pregled djelatnosti po gradovima
+
+03/02/2020 09:04:54 - Izbor prijave
+
+03/02/2020 09:04:55 - Prijava kao administrator
+
+03/02/2020 09:04:58 - Pokretanje glavnog izbornika
+
+03/02/2020 09:05:02 - Pregled djelatnosti po gradovima
+
